@@ -1,0 +1,13 @@
+//! "use client" use if you want change from server components to client component
+/*
+  - used when using hooks 
+  - event like useEffect and useState
+  - error component must be client component
+  summary if u have err exchange it to client
+*/
+
+Data fetching 
+ 
+1- server side Rendering (SSR) default `ll cache it 
+2- static site generation (SSG) { cache: 'no-store' }
+3- incremental static generation (ISR) { next: { revalidate: 10 } }
