@@ -1,6 +1,7 @@
-## 'The promptopia app is an open-source AI prompting tool for the modern world to discover, create and share creative prompts using NextJS & TailwindCSS & NextAuth & MongoDB check it from ' 
-
+'The promptopia app is an open-source AI prompting tool for the modern world to discover, create and share creative prompts using NextJS & TailwindCSS & NextAuth & MongoDB check it from ' 
 [here](https://promptopia-indol-three.vercel.app/)
+
+
 ![ScreenShot](https://i.pinimg.com/564x/da/e6/f8/dae6f826ee2f36b7c8e1122faa0318d0.jpg)
 
 
